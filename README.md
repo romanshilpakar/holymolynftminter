@@ -19,7 +19,7 @@ npm install
 - Inside src/app/api/upload/route.js add the neccessary things like starton api key , SMART_CONTRACT_ADDRESS and WALLET_IMPORTED_ON_STARTON.
 - Follow this video on how to setup these things using Starton
 
-[https://www.youtube.com/roomyan](https://www.youtube.com/roomyan)
+[https://youtu.be/1KIomzjoX10](https://youtu.be/1KIomzjoX10)
 
 
 
